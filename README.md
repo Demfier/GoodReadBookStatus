@@ -1,7 +1,7 @@
 # GoodReadBookStatus
 
 Do you love reading Books? <br>
-Then I guess you must be knowing about Goodreads.com<br.
+Then I guess you must be knowing about Goodreads.com<br>
 
 So here I am again, to help you a bit with my code ;-)<br>
 
