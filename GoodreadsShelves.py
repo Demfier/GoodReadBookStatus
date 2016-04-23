@@ -85,4 +85,4 @@ html_file.write(html_script)
 
 html_file.close()
 
-print "HTML file created : index.html\n\nOpen index.html that has been just created"
+print "HTML file created : index.html\n\nOpen index.html that has been just created in your browser."
