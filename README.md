@@ -13,9 +13,9 @@ You just type :<b>python GoodreadShelves.py</b> in your terminal.<br>
 1.) Enter your Email-ID<br>
 2.)Enter your password & press Enter.<br>
 
-Just wait for some time and WHAMM!!<br>
-Just <b>Open index.html</b> that has just been created, in your browser and you don't have to crawl through your terminal anyomore.
+Just wait for some time and that's it...Really!!<br>
+Just <b>Open index.html</b> that has just been created, in your browser and you don't have to crawl through your terminal anymore.
 
-You will have the <b>Title</b>, <b>Author</b> <b>Ratings</b>, <b>Number of pages</b> & <b>Description</b> of the books you have in your shelves at Goodread along with the <b>Coerpage</b> of those books.
+You will have the <b>Title</b>, <b>Author</b> <b>Ratings</b>, <b>Number of pages</b> & <b>Description</b> of the books you have in your shelves at Goodread along with the <b>Coverpage</b> of those books.
 
 Hope you enjoy it.
