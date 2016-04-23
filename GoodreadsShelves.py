@@ -1,9 +1,7 @@
 from bs4 import BeautifulSoup
 from lxml import html
 import mechanize
-import time
 
-start_time = time.time()
 br = mechanize.Browser()
 
 #Goodreads credentials
